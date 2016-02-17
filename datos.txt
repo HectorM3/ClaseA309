@@ -1,0 +1,4 @@
+c palabra1
+c palabra2
+c palabra3
+d 22

@@ -1,0 +1,3 @@
+PROJECT(Class_12_02_16)
+
+ADD_EXECUTABLE(main main.c)
