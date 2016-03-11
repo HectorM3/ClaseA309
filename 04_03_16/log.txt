@@ -1,0 +1,4 @@
+Nombre: Héctor Monte
+Asignatura: Informática Industrial
+Matrícula_id: 49550
+Grupo: 3
